@@ -1,4 +1,6 @@
 # GeorgeOS Single Board Computer
+![GeorgeOS Logo](./Docs/Pictures/GeorgeOS.png)
+
 This was the final project for the Microcomputer Design Course at LeTourneau University.
 
 Software for this project can be found here: [Morg Monitor Program](https://github.com/prrtzel/Morg-Monitor-Program)
