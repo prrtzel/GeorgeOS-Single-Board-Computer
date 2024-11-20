@@ -1,5 +1,6 @@
 # GeorgeOS Single Board Computer
-![GeorgeOS Logo](./Docs/Pictures/GeorgeOS.png)
+
+<img src="./Docs/Pictures/GeorgeOS.png" alt="drawing" width="200"/>
 
 This was the final project for the Microcomputer Design Course at LeTourneau University.
 
