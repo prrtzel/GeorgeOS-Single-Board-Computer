@@ -13,7 +13,7 @@ The requirements for the project were as follows:
 - Jump to the S-Record and run it
 
 ## Schematic
-![Schematic](./Docs/Pictures/Schematic.PNG)
+![Schematic](./Docs/Pictures/schematic.PNG)
 ## Printed Circuit Board
 ![PCB](./Docs/Pictures/PCB.PNG)
 ## Assembled Board
